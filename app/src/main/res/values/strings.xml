@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Canal Vinícius Thiengo</string>
+
+    <!-- MainActivity -->
+    <string name="channel_name">
+        Vinícius Thiengo
+    </string>
+    <string name="channel_desc">
+        Seu canal sobre Desenvolvimento de Aplicativos
+        Android e TI.
+    </string>
+    <string name="youtube_content_icon_content_desc">
+        Ícone do YouTube.
+    </string>
+    <string name="channel_thumb_content_desc">
+        Thumb do canal YouTube Vinícius Thiengo.
+    </string>
+    <string name="channel_toast_alert">
+        É preciso ter o aplicativo do YouTube instalado
+        para acessar o canal.
+    </string>
+
 </resources>
