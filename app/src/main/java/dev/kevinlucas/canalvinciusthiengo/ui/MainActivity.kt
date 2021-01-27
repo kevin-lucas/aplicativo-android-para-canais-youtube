@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
          * Devido ao uso de uma Splash Screen
          * personalizada.
          */
-        setTheme(R.style.AppTheme_Launcher)
+        setTheme(R.style.AppTheme)
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
