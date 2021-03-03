@@ -9,4 +9,11 @@
     <color name="colorTopIcon">#FFFFFF</color>
     <color name="colorTopWave">#555555</color>
     <color name="colorTopText">#FFFFFF</color>
+
+    <!-- Bottom Menu -->
+    <color name="colorMenuSeparatorLine">#F1F1F1</color>
+    <color name="colorMenuBackground">@android:color/transparent</color>
+    <color name="colorMenuItemBackground">@android:color/transparent</color>
+    <color name="colorMenuItemSelected">#444444</color>
+    <color name="colorMenuItemNotSelected">#AFAFAF</color>
 </resources>

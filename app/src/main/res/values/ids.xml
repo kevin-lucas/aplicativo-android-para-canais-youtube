@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="last_video" type="id" />
+    <item name="social_networks" type="id" />
+    <item name="play_lists" type="id" />
+    <item name="exclusive_groups" type="id" />
+    <item name="about_channel" type="id" />
+    <item name="books" type="id" />
+    <item name="courses" type="id" />
+    <item name="business" type="id" />
+</resources>

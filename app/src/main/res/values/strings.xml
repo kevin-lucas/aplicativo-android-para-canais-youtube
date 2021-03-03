@@ -20,4 +20,31 @@
         para acessar o canal.
     </string>
 
+    <!-- Menu -->
+    <string name="item_menu_last_video">
+        Vídeo
+    </string>
+    <string name="item_menu_social_networks">
+        Redes
+    </string>
+    <string name="item_menu_play_lists">
+        Play Lists
+    </string>
+    <string name="item_menu_exclusive_groups">
+        Grupos
+    </string>
+    <string name="item_menu_about_channel">
+        Sobre
+    </string>
+    <string name="item_menu_books">
+        Livros T.I.
+    </string>
+    <string name="item_menu_courses">
+        Cursos T.I.
+    </string>
+    <string name="item_menu_business">
+        Business
+    </string>
+
+
 </resources>
